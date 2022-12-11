@@ -1,0 +1,26 @@
+
+body{
+background-color: aquamarine;
+}
+h1
+{
+    color: rgb(120, 39, 39);
+    text-align: center;
+  }
+div{
+
+    height: 600px;
+    width: 100%;
+    background-color: powderblue;
+}
+
+.images{
+    height: 500px;
+    width: 800px;
+}
+
+h3{
+    color: rgb(37, 37, 148);
+
+}
+  
